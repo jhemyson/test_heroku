@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+cnab
+.env
+.env-dev
+.serverless
+json-test
